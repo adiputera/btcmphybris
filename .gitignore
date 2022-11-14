@@ -1,0 +1,6 @@
+data/**
+log/**
+temp/**
+bin/modules/**
+bin/platform/**
+*.class

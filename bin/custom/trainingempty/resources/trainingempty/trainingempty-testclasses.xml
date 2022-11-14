@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><trainingempty><testclass>org.training.jalo.TrainingemptyTest</testclass><testclass>org.training.service.impl.DefaultTrainingemptyServiceIntegrationTest</testclass></trainingempty></testclasses>
